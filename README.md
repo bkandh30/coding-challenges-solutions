@@ -6,4 +6,4 @@ These are my solutions for John Crickett's [Coding Challenges](https://codingcha
 
 | No. | Solution | Language |
 |-----|----------|----------|
-| 1 | | |
+| 1 | Build your own Discord Bot| Python |
