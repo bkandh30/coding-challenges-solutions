@@ -10,5 +10,6 @@ These are my solutions for John Crickett's [Coding Challenges](https://codingcha
 | 2 | [Build your own URL Shortener](https://codingchallenges.fyi/challenges/challenge-url-shortener) | [Solution](https://github.com/bkandh30/url-shortener) | JavaScript |
 | 3 | [Build your own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc)| [Solution](https://github.com/bkandh30/wc-tool) | Python |
 | 4 | [Build your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman/)| [Solution](https://github.com/bkandh30/compression-tool) | Python |
-| 5 | [Build your own grep tool](https://codingchallenges.fyi/challenges/challenge-grep)| [Solution](https://github.com/bkandh30/py-grep-tool) | Python |
-| 6 | [Build your own Json Parser](https://codingchallenges.fyi/challenges/challenge-json-parser/)| [Solution](https://github.com/bkandh30/json-parser) | |
+| 5 | [Build your own web server](https://codingchallenges.fyi/challenges/challenge-webserver)| [Solution](https://github.com/bkandh30/py-webserver) | Python |
+| 6 | [Build your own grep tool](https://codingchallenges.fyi/challenges/challenge-grep)| [Solution](https://github.com/bkandh30/py-grep-tool) | |
+| 7 | [Build your own Json Parser](https://codingchallenges.fyi/challenges/challenge-json-parser/)| [Solution](https://github.com/bkandh30/json-parser) | |
