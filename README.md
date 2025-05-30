@@ -1,8 +1,9 @@
-# coding-challenges-solutions
+# cJohn Crickett's Coding Challenges: My Solutions
+This repository serves as a curated collection of my solutions to the engaging and insightful [Coding Challenges](https://codingchallenges.fyi/challenges/intro) by John Crickett. 
 
-These are my solutions for John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro).
+## Challenges and Solutions
 
-## Challenges
+Below is a comprehensive list of the challenges I've tackled, along with links to their respective solutions and the language used. Each solution is hosted in its own dedicated repository for clarity and independent exploration.
 
 | No. | Problem | Solution | Language |
 |----|----------|----------|--------|
@@ -12,3 +13,11 @@ These are my solutions for John Crickett's [Coding Challenges](https://codingcha
 | 4 | [Build your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman/)| [Solution](https://github.com/bkandh30/compression-tool) | Python |
 | 5 | [Build your own web server](https://codingchallenges.fyi/challenges/challenge-webserver)| [Solution](https://github.com/bkandh30/py-webserver) | Python |
 | 6 | [Build your own Rate Limiter](https://codingchallenges.fyi/challenges/challenge-rate-limiter/)| [Solution](https://github.com/bkandh30/rate-limiter-fastapi) | Python |
+
+---
+
+## Getting Started
+
+To explore any specific solution, simply click on the **"Solution Repository"** link in the table above. Each linked repository contains its own `README.md` with detailed instructions on how to set up, run, and understand that particular challenge's implementation.
+
+---
